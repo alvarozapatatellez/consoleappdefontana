@@ -1,0 +1,8 @@
+C:\Users\Desarrollo\source\repos\pruebadefontana\AppConsoleDefontana\bin\Debug\AppConsoleDefontana.exe.config
+C:\Users\Desarrollo\source\repos\pruebadefontana\AppConsoleDefontana\bin\Debug\AppConsoleDefontana.exe
+C:\Users\Desarrollo\source\repos\pruebadefontana\AppConsoleDefontana\bin\Debug\AppConsoleDefontana.pdb
+C:\Users\Desarrollo\source\repos\pruebadefontana\AppConsoleDefontana\obj\Debug\AppConsoleDefontana.csproj.AssemblyReference.cache
+C:\Users\Desarrollo\source\repos\pruebadefontana\AppConsoleDefontana\obj\Debug\AppConsoleDefontana.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desarrollo\source\repos\pruebadefontana\AppConsoleDefontana\obj\Debug\AppConsoleDefontana.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\pruebadefontana\AppConsoleDefontana\obj\Debug\AppConsoleDefontana.exe
+C:\Users\Desarrollo\source\repos\pruebadefontana\AppConsoleDefontana\obj\Debug\AppConsoleDefontana.pdb
